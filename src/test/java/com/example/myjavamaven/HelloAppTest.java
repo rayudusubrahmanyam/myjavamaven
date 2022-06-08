@@ -1,6 +1,6 @@
 package com.example.myjavamaven;
 
-import com.example.javamavenjunithelloworld.TestingSecurityManager.TestExitException;
+import com.example.myjavamaven.TestingSecurityManager.TestExitException;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
